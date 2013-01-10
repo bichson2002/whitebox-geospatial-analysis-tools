@@ -1,0 +1,14 @@
+plugins.Append
+plugins.BufferVector
+plugins.CentroidVector
+plugins.Difference
+plugins.Fuse
+plugins.Intersect
+plugins.IsolateVectorFeaturesByLocation
+plugins.LayerFootprint
+plugins.MinimumConvexHull
+plugins.PolygonsToLines
+plugins.Smooth
+plugins.SymmetricDifference
+plugins.Union
+plugins.VoronoiDiagram
