@@ -1,0 +1,11 @@
+plugins.ChangeDataScale
+plugins.ChangeDataType
+plugins.ConvertNoDataToZero
+plugins.RasterToVectorLines
+plugins.RasterToVectorPoints
+plugins.RasterToVectorPolygons
+plugins.SetNoData
+plugins.VectorLinesToRaster
+plugins.VectorPointsToRaster
+plugins.VectorPolygonsToRaster
+plugins.XYZTextToRaster
